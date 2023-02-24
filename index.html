@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Test Proctoring Extension</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="javascript" href="index.js">
+  </head>
+  <body>
+    <form id="test-form">
+        <h1>Test Proctoring Extension</h1>
+      <label for="name">Name:<input type="text" id="name" name="name" required></label>
+    
+      <label for="email">Email:<input type="email" id="email" name="email" required></label>
+      
+      <label for="code">Code:<input type="text" id="code" name="code" required></label>
+    
+      <button type="submit" id="start-test">Start Test</button>
+      <div id="video-container">
+        <video id="video" autoplay></video>
+      </div>
+    </form>
+  </body>
+  <script src="script.js"></script>
+</html>
