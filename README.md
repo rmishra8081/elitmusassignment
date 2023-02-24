@@ -4,7 +4,6 @@
 Here is the Link of deployement :- https://rmishra8081.github.io/elitmusassignment/
 
 
-Based on the feature list provided, here are some technical requirements for the Chrome extension and backend:
 
 Frontend (Chrome Extension):
 
